@@ -5,7 +5,7 @@ const toggleButton = document.getElementById('toggleSwitch')
 
 let tempURL = ''
 
-
+inp.focus()
 
 function getCookie(cname) {
   var name = cname + "=";

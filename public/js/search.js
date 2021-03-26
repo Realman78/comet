@@ -30,7 +30,6 @@ if (getCookie('keepB') == 'true'){
 
 fetch(`/api/getRes?term=${myParam}`).then(async (res)=>{
     const data = await res.json()
-    console.log(myParam)
     data.forEach(row => {
         const div = document.createElement('div')
         div.className = "siteContainer"
