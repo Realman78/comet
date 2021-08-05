@@ -6,7 +6,8 @@ The background changes with every refresh but you can toggle it to make it stay 
 
 Search results (missing styling)
 
-![Search Results](https://cdn.discordapp.com/attachments/707574253116981274/824680791434067998/comet_g2.PNG)
+![Search Results](https://cdn.discordapp.com/attachments/707574253116981274/824680791434067998/comet_g2.PNG)  
+NEXT: Add styling and Image search
 
 DB: MySQL
 Server-side: Node.js
